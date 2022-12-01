@@ -1,0 +1,15 @@
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.csproj.AssemblyReference.cache
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.GeneratedMSBuildEditorConfig.editorconfig
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.AssemblyInfoInputs.cache
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.AssemblyInfo.cs
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.csproj.CoreCompileInputs.cache
+D:\OBMENN\IT\c#\HW2\exe10\bin\Debug\net6.0\exe10.exe
+D:\OBMENN\IT\c#\HW2\exe10\bin\Debug\net6.0\exe10.deps.json
+D:\OBMENN\IT\c#\HW2\exe10\bin\Debug\net6.0\exe10.runtimeconfig.json
+D:\OBMENN\IT\c#\HW2\exe10\bin\Debug\net6.0\exe10.dll
+D:\OBMENN\IT\c#\HW2\exe10\bin\Debug\net6.0\exe10.pdb
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.dll
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\refint\exe10.dll
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.pdb
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\exe10.genruntimeconfig.cache
+D:\OBMENN\IT\c#\HW2\exe10\obj\Debug\net6.0\ref\exe10.dll
